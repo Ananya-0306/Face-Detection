@@ -1,0 +1,3 @@
+Flask
+Gunicorn
+opencv-python
